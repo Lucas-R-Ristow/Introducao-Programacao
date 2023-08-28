@@ -1,2 +1,3 @@
 # Introducao-Programacao
 Projetos e códigos da matéria de programação do primeiro semestre da faculdade, linguagem: Java.  
+Todos os projetos foram propostos pelo professor e seus enunciados retirados de seu próprio repositório no GitHub, o objetivo da disciplina era de apresentar e introduzir conceitos e mecânicas básicas de programação através da linguagem escolhida (Java), os comandos mais importantes ensinados variam da criação de um laço de repetição com do-while, while ou for e a utilização do comando switch, if e else. Devido natureza introdutória da disciplina os projetos apresentados neste repositório tendem a ser de caráter mais simplório.
