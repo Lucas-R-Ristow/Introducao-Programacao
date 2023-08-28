@@ -1,4 +1,4 @@
-*LIGA 4*
+# LIGA 4
 
 Definições:
 * Só é permitido o uso de comandos estudados em sala de aula até o momento.
